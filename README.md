@@ -41,5 +41,4 @@ Hope
 支持作者
 ==== 
 开发插件占用了我个人大量的私人时间，如果你觉得对你有所帮助，不妨请我喝杯☕️以鼓励我开发出更优秀的插件
- ![image](https://github.com/skyun1314/AesTest/blob/master/screenshots/alipay.jpg)
-![image](https://github.com/skyun1314/AesTest/blob/master/screenshots/mm_pay.png)
+【删除】
